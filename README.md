@@ -4,7 +4,7 @@
 Ubuntu 20.04  
 c++14 or later  
 
-## Compile
+## Compile to build Client&Server
 ```shell
 $ make
 ```
