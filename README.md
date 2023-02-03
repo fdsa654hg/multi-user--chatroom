@@ -6,7 +6,9 @@ c++14 or later
 
 ## Compile to build Client&Server
 ```shell
+$ cd src
 $ make
+$ ./Server (or ./client)
 ```
 
 ## Introduce
