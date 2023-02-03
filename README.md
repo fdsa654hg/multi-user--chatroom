@@ -1,4 +1,4 @@
-# multiprocess-chatroom
+# multi-user-chatroom
 
 ## Prerequisites
 Ubuntu 20.04  
@@ -12,6 +12,6 @@ $ ./Server (or ./client)
 ```
 
 ## Introduce
-1. c++ socket TCP溝通的聊天室  
+1. 使用c++ socket TCP溝通的聊天室  
 2. std::thread使server能支援多個client聊天  
 3. state pattern維護private的密語模式和public的公開模式  
